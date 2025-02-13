@@ -163,6 +163,8 @@ https://ollama.com/
 
 https://ollama.com/library/llama3.1
 
+OBS! Download the dataset from Kaggle and put the csv file in /data folder.
+
 
 
 1️⃣ Setup Environment
