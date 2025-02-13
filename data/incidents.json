@@ -1,0 +1,42 @@
+[
+    {
+        "priority": 3,
+        "impact": 2,
+        "urgency": 3,
+        "reassignment_count": 1,
+        "reopen_count": 0,
+        "complexity_score": 4
+    },
+    {
+        "priority": 5,
+        "impact": 4,
+        "urgency": 5,
+        "reassignment_count": 2,
+        "reopen_count": 1,
+        "complexity_score": 7
+    },
+    {
+        "priority": 2,
+        "impact": 1,
+        "urgency": 2,
+        "reassignment_count": 0,
+        "reopen_count": 0,
+        "complexity_score": 3
+    },
+    {
+        "priority": 4,
+        "impact": 3,
+        "urgency": 4,
+        "reassignment_count": 3,
+        "reopen_count": 2,
+        "complexity_score": 6
+    },
+    {
+        "priority": 5,
+        "impact": 5,
+        "urgency": 5,
+        "reassignment_count": 5,
+        "reopen_count": 3,
+        "complexity_score": 9
+    }
+]
